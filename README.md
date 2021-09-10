@@ -3,6 +3,7 @@ react-slidedown
 React component which uses CSS to animate a child from its current height to ```height: auto``` when mounting/updating/unmounting.
 
 [![build status](https://secure.travis-ci.org/frankwallis/react-slidedown.png?branch=master)](http://travis-ci.org/frankwallis/react-slidedown)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FNirajn2311%2Freact-slide-expand.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FNirajn2311%2Freact-slide-expand?ref=badge_shield)
 
 [Live Demo](https://ykxm1vz5vv.codesandbox.io/)
 
@@ -88,3 +89,7 @@ The default values used are:
     transition-timing-function: ease-in-out;
 }
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FNirajn2311%2Freact-slide-expand.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FNirajn2311%2Freact-slide-expand?ref=badge_large)
